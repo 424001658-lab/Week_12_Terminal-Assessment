@@ -1,3 +1,5 @@
+Week 12: Milestone 2 (Midterms) — Dart Logic Practical & Written Walkthrough
+
 This repository contains the complete submission package for Milestone 2 (Terminal Assessment 2). The package combines Dart fundamentals, object-oriented programming (OOP) principles, mixins, interfaces, and asynchronous programming (async/await) developed through Weeks 7 to 11 into a single, cohesive executable console application.
 
 The primary objective is to demonstrate strong structural logic, sound code architecture, and clear written reflection explaining the architectural choices behind the implementation.
